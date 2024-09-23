@@ -1,0 +1,38 @@
+[
+    {
+        "number": "243",
+        "subject": "math",
+        "title": "algebra",
+        "term": "spring"
+    },
+    {
+        "number": "181",
+        "subject": "math",
+        "title": "trigonometry",
+        "term": "spring"
+    },
+    {
+        "number": "254",
+        "subject": "math",
+        "title": "vector calculus",
+        "term": "spring"
+    },
+    {
+        "number": "237",
+        "subject": "math",
+        "title": "algebra",
+        "term": "spring"
+    },
+    {
+        "number": "232",
+        "subject": "math",
+        "title": "discrete math",
+        "term": "spring"
+    },
+    {
+        "number": "252",
+        "subject": "math",
+        "title": "integral calculus",
+        "term": "spring"
+    }
+]
